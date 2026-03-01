@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+AI+Powered+Robotics;Future+Automation+Engineer;Passionate+About+Intelligent+Systems;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+AI+Powered+Robotics;Future+Automation+Engineer; BlockChain in Agicultural industry;Passionate+About+Intelligent+Systems;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
