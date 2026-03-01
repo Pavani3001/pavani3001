@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+AI+Powered+Robotics;Future+Automation+Engineer; BlockChain in Agicultural industry;Passionate+About+Intelligent+Systems;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+AI+Powered+Robotics;Future+Automation+Engineer;Passionate+About+Intelligent+Systems;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -29,32 +29,8 @@ I believe the future belongs to machines that can think — and I’m preparing 
 
 ---
 
-## 🛠 Tech Stack
 
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,vscode"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 🎯 2026 Goals
 
@@ -62,6 +38,16 @@ I believe the future belongs to machines that can think — and I’m preparing 
 - 🏆 Participate in National Hackathons  
 - 📚 Learn ROS & Advanced Robotics  
 - 🌍 Contribute to Open Source  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,vscode"/>
+
+</p>
 
 ---
 
@@ -73,19 +59,3 @@ I believe the future belongs to machines that can think — and I’m preparing 
 ---
 
 ⭐ “Designing the future with AI & Robotics.”
-
-
-<!--
-**Pavani3001/pavani3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
