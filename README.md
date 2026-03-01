@@ -53,8 +53,8 @@ I believe the future belongs to machines that can think — and I’m preparing 
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 🔗 LinkedIn: https://www.linkedin.com/in/pavani-malthumkar-5b6324372/
+- 📧 Email: pavanimalthumkar24@gmail.com
 
 ---
 
